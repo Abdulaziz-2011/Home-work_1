@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+
+  --font-roboto: Roboto;
+  --font-inter: Inter;
+  --font-raleway: Raleway;
+
+  --font-size-3xl: 22px;
+  --font-size-5xl: 24px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: #1c2331;
+  --text-black: #525252;
+  --color-deepskyblue: #05a6ca;
+
+  --padding-3xs: 10px;
+
+  --br-xl: 20px;
+  --br-81xl: 100px;
+  --br-3xs: 10px;
+  --br-mini: 15px;
+}

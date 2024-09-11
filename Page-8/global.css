@@ -1,0 +1,33 @@
+
+    body {
+    margin: 0;
+    line-height: normal;
+  }
+    
+    
+      :root {
+
+--font-raleway: Raleway;
+--font-roboto: Roboto;
+
+--font-size-xs: 12px;
+--font-size-sm: 14px;
+--font-size-37xl: 56px;
+--font-size-5xl: 24px;
+--font-size-base: 16px;
+--font-size-xl: 20px;
+--font-size-lg: 18px;
+--font-size-3xl: 22px;
+
+
+--color-white: #fff;
+--color-black: #000;
+--color-gray: rgba(0, 0, 0, 0.5);
+
+
+--padding-3xs: 10px;
+
+
+--br-81xl: 100px;
+
+}

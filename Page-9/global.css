@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+
+  --font-kyivtype-serif: "Kyiv*Type Serif";
+  --font-kyivtype-titling: "Kyiv*Type Titling";
+  --font-roboto: Roboto;
+  --font-raleway: Raleway;
+
+  --font-size-sm: 14px;
+  --font-size-3xs: 10px;
+  --font-size-5xl: 24px;
+  --font-size-xs: 12px;
+  --font-size-37xl: 56px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-3xl: 22px;
+
+
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: rgba(0, 0, 0, 0.5);
+
+  --padding-3xs: 10px;
+
+  --br-3xs: 10px;
+  --br-81xl: 100px;
+}
